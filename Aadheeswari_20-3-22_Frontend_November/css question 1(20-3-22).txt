@@ -1,0 +1,5 @@
+1) What is a CSS selector?
+        
+
+        It is a string that identifies the elements to which a particular declaration apply. It is also referred as a link 
+between the HTML document and the style sheet. It is equivalent of HTML elements.

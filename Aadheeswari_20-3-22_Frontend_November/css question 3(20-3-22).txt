@@ -1,0 +1,7 @@
+3)  Name the property for controlling the image position in the background.
+
+
+        The background-position property is used to define the initial position of the background image. By default, 
+the background image is placed on the top-left of the webpage.
+
+

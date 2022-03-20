@@ -1,0 +1,8 @@
+4) seting positions of the image position in the background.
+
+
+       => center
+       => top
+       => bottom
+       => left
+       => right
